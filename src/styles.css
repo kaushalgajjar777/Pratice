@@ -1,0 +1,11 @@
+.Container {
+  text-align: center;
+  padding: 10px;
+}
+
+.modal-body {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 25px;
+}
